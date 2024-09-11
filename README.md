@@ -4,11 +4,6 @@
 
 # Flutter Móvil - Instalaciones recomendadas
 
-Descargar las hojas de atajos recomendadas:
-
-[Guías de atajos - Dart ](https://devtalles.com/files/dart-cheat-sheet.pdf)
-
-[Guías de atajos - Flutter ](https://devtalles.com/files/flutter-cheat-sheet.pdf)
 
 # Instalaciones en el equipo
 
